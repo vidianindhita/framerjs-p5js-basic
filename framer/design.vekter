@@ -1,0 +1,39 @@
+{
+  "version" : 10,
+  "root" : {
+    "id" : "6JOO[?3(",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "}5\/ffk{l",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "6JOO[?3(",
+        "exportOptions" : [
+
+        ],
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "type" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "exportEnabled" : false,
+        "children" : [
+
+        ],
+        "height" : 667,
+        "fillType" : "color",
+        "targetName" : "MainScreen",
+        "fillColor" : "#ffffff",
+        "name" : "MainScreen"
+      }
+    ]
+  }
+}
